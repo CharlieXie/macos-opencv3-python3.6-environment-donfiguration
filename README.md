@@ -1,0 +1,1 @@
+# macos-opencv3-python3.6-environment-donfiguration
